@@ -1,6 +1,6 @@
 ![](http://img.voidcn.com/vcimg/000/005/253/970_307_3ca.jpg)
 
-*Nginx**--web server</br>
+**Nginx**--web server</br>
 对于传统的客户端 -  服务器架构，客户端向服务器发送请求，服务器接收请求，处理请求，最后给客户端返回请求的响应
 
 **Flask**--web 框架</br>
