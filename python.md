@@ -7,3 +7,6 @@
 * pop返回pop掉的值
 
 * return res==value #return bool can write like this
+
+* ```dict.get(key)```
+查看字典中有无这个key，有的话返回它的value，没有返回None
