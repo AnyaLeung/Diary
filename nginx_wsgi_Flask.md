@@ -1,4 +1,4 @@
-<http://img.voidcn.com/vcimg/000/005/253/970_307_3ca.jpg>
+![](http://img.voidcn.com/vcimg/000/005/253/970_307_3ca.jpg)
 
 **Nginx**--web server</br>
 对于传统的客户端 -  服务器架构，客户端向服务器发送请求，服务器接收请求，处理请求，最后给客户端返回请求的响应
@@ -14,7 +14,7 @@
 - uwsgi</br>
 协议</br>
 - uWSGI</br>
-实现了uwsgi和WSGI两种协议的**web服务器**。</br>
+实现了uwsgi和WSGI两种协议的web server。</br>
 - CGI</br>
 通用网关接口，并不限于python语言，定义了web服务器是如何向客户端提供动态的内容。生产环境下的web应用都不使用CGI了，CGI进程针对每个请求创建，用完就抛弃，效率低下。WSGI正是为了替代CGI而出现的。</br>
 
