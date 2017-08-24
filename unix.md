@@ -6,3 +6,5 @@
 
 * 绝对路径 `/user/anyaliang/Document/`，写法是从根目录写起</br>
  絕對路徑的作用：shell script管理文件，寫絕對路徑,正確度高。
+
+* ```find . -name vimrc```
