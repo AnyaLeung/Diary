@@ -8,3 +8,5 @@
  絕對路徑的作用：shell script管理文件，寫絕對路徑,正確度高。
 
 * ```find . -name vimrc```
+
+* ```diff filename1 filenmame2```

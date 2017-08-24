@@ -13,3 +13,12 @@
 
 * ```dict.keys()```
 return all key in the dict with a list
+
+* **is** will return True if two variables **point to the same object** </br>
+  **==** if the objects referred to by the **same value**
+
+* infinit in python: ```float("inf")```
+
+* reverse python list ```list.reverse()``` or ```list[::-1]```, former doesn't return
+
+* ```for i in dict: ``` equal with ```for i in dict.keys():```
