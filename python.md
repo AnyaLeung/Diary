@@ -22,3 +22,13 @@ return all key in the dict with a list
 * reverse python list ```list.reverse()``` or ```list[::-1]```, former doesn't return
 
 * ```for i in dict: ``` equal with ```for i in dict.keys():```
+
+* list去重\list->set：`set(list)`
+
+* set: </br>
+```
+并集--> set1 | set2
+交集--> set1 & set2
+差集--> set1 - set2
+```
+
