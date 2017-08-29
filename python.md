@@ -23,6 +23,8 @@ return all key in the dict with a list
 
 * ```for i in dict: ``` equal with ```for i in dict.keys():```
 
+* ```for i in list:``` i is value!
+
 * list去重\list->set：`set(list)`
 
 * set: </br>
