@@ -36,3 +36,13 @@ return all key in the dict with a list
 `
 ` `range([start], [end], footstep)`, end is not included
 
+* `enumerate()` add a counter to a iterator
+```
+>>>values = ["a", "b", "c"]
+>>>for index, value in enumerate(values):
+...    print(index, value)
+...
+0 a
+1 b
+2 c
+``` 

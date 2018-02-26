@@ -4,3 +4,5 @@ INT_MAX is a macro that expands to the largest (most positive) value that can be
 
 * `delete[]` deallocate array</br>
 `new[]`
+
+* std::reverse(start, end);
