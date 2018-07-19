@@ -17,4 +17,6 @@ docker rm xxx_id
 docker stop [container_id]
 
 docker port [container_name_you_gave]
+
+docker images
 ```
