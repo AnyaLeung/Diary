@@ -13,7 +13,7 @@ docker run -p 8888:80 prakhar1989/static-site
 docker ps           #view running containers
 docker ps -a        #view ran containers
 
-docker rm xxx_id
+docker rm xxx_id    #container
 docker stop [container_id]
 
 docker port [container_name_you_gave]
